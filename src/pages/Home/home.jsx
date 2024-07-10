@@ -1,3 +1,9 @@
+import './style.css';
 export const Home = () => {
-  <h1>hello</h1>;
+  return (
+    <>
+      <div className="background-salad"></div>
+      <button type="button">NABÍDKA</button>
+    </>
+  );
 };

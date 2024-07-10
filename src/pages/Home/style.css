@@ -1,0 +1,6 @@
+.background-salad {
+  background-image: url("image/salad-home.jpg");
+  height: 500px;
+  width: 100%;
+  animation: slide 60s linear infinite
+}

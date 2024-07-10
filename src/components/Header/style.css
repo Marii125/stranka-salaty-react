@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+HR:wght@100..400&display=swap');
+
+
+header {
+  background: linear-gradient(0.25turn, #3f87a6, #ebf8e1, #f69d3c);
+  height: 80px;
+  display: flex;
+  justify-content: space-between;
+}
+
+#header__logo {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  padding-top: 10px;
+  padding-left: 10px;
+}
+
+#header__logo img {
+  border-radius: 20px;
+
+}
+
+.nav__link {
+  font-family: "Playwrite HR", cursive;
+  font-optical-sizing: auto;
+
+}
